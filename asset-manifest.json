@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sidra987/devopsfinalproject.git/static/css/main.e6c13ad2.css",
+    "main.js": "/sidra987/devopsfinalproject.git/static/js/main.7e712fea.js",
+    "static/js/453.ed3810f9.chunk.js": "/sidra987/devopsfinalproject.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/sidra987/devopsfinalproject.git/index.html",
+    "main.e6c13ad2.css.map": "/sidra987/devopsfinalproject.git/static/css/main.e6c13ad2.css.map",
+    "main.7e712fea.js.map": "/sidra987/devopsfinalproject.git/static/js/main.7e712fea.js.map",
+    "453.ed3810f9.chunk.js.map": "/sidra987/devopsfinalproject.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e712fea.js"
+  ]
+}
