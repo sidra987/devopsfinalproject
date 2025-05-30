@@ -87,7 +87,7 @@ const App = () => {
   return (
     <div style={{ fontFamily: 'Arial', background: '#f8fafc', minHeight: '100vh', padding: '20px' }}>
       <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: '#1d4ed8', padding: '1rem', color: 'white' }}>
-        <h1>Hotel Login</h1>
+        <h1>login Login</h1>
         <div>
           <button onClick={() => setPage('home')} style={navBtnStyle}>Home</button>
           <button onClick={() => setPage('about')} style={navBtnStyle}>About</button>
